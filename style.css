@@ -3,31 +3,19 @@ body {
     padding: 0;
 }
 
-.hero .hero-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 5em;
-    font-weight: bolder;
-    color: purple;
-}
-
 .hero .img-hero {
     width: 100vw;
     height: 100vh;
-    z-index: -1;
-    position: relative;
 }
 
-#form {
+/* #form {
     margin-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     gap: 20px;
-}
+} */
 
 .form {
     display: flex;
